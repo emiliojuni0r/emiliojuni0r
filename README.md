@@ -3,8 +3,9 @@
 Welcome to my GitHub! I'm a developer with a growing interest in web development and a passion for learning new technologies. 
 
 ## 🌟 About Me
-- 🎓 [3rd Semester D4 Software Engineering Technology student at UGM](https://www.ugm.ac.id/)
+- 🎓 [D4 Software Engineering Technology student](https://www.ugm.ac.id/)
 - 🔍 Exploring Web Development and software architecture
+- 📚 Currently learning frontend frameworks and backend technologies
 
 ## 💻 Languages & Tools I Know
 <p>
@@ -29,8 +30,9 @@ Welcome to my GitHub! I'm a developer with a growing interest in web development
 </p>
 
 ## 📁 Projects
-- **[Ascendre](https://github.com/emiliojuni0r/project-uas-ppw1)** - A small e-commerce platform created as a final project for the Web Programming Practicum course. Built with PHP, HTML, JavaScript, CSS, and Bootstrap.
-- **[Portfolio Website](https://github.com/username/portfolio)** - My personal portfolio to showcase my skills and projects.
+- **[Ascendre](https://github.com/emiliojuni0r/project-uas-ppw1)** - A small e-commerce platform created as a final project for the Web Programming Practicum class. Built with PHP, HTML, JavaScript, CSS, and Bootstrap.
+- 
+-
 
 ## 🌱 What I’m Currently Learning
 - Laravel features
@@ -41,4 +43,6 @@ Welcome to my GitHub! I'm a developer with a growing interest in web development
 <p>
   <a href="https://www.linkedin.com/in/emilio-muhammad-hamsyah-junior-4b1b2b28b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:emiliohamsyahjr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+   <a href="https://www.instagram.com/emiliojunior___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discordapp.com/users/lime.#5122"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
