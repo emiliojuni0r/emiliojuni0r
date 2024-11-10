@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a developer with a growing interest in web development
 </p>
 
 ## 📁 Projects
-- **[Ascendre](https://github.com/emiliojuni0r/project-uas-ppw1)** - A small e-commerce platform created as a final project for the Web Programming Practicum class. Built with PHP, HTML, JavaScript, CSS, and Bootstrap.
+- **[Ascendre](https://github.com/emiliojuni0r/project-uas-ppw1)** - A small and basic e-commerce platform created as a final project for the Web Programming Practicum class. Built with PHP, HTML, JavaScript, CSS, and Bootstrap.
 - 
 -
 
