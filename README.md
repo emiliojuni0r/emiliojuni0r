@@ -1,4 +1,4 @@
-# 👋 Hello, I'm emiliojuni0r (a.k.a. Emilio)!
+# 👋 Hello, I'm emiliojuni0r (a.k.a. Emilio)! 🧛
 
 Welcome to my GitHub! I'm a developer with a growing interest in web development and a passion for learning new technologies. 
 
